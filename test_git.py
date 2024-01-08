@@ -3,6 +3,9 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment, Font, Border, Side
 
+#test
+print("git_test")
+
 # 새로운 엑셀파일 생성
 total_wb = Workbook()
 
