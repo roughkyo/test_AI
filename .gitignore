@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/vs,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=vs,python
+# Created by https://www.toptal.com/developers/gitignore/api/python,vs
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,vs
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -526,4 +526,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# End of https://www.toptal.com/developers/gitignore/api/vs,python
+# End of https://www.toptal.com/developers/gitignore/api/python,vs
